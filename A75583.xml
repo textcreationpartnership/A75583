@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal to supply the defect of money, and relief to the poor. To his grace, James Duke of Queensberry, his Majesty's high commissioner; and to the most honourable, the three estates of Parliament</title>
+            <author>Armour, James, fl. 1702-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75583</idno>
+            <idno type="STC">Wing A3704A</idno>
+            <idno type="STC">ESTC R230833</idno>
+            <idno type="EEBO-CITATION">99899689</idno>
+            <idno type="PROQUEST">99899689</idno>
+            <idno type="VID">133477</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75583)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133477)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2416:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal to supply the defect of money, and relief to the poor. To his grace, James Duke of Queensberry, his Majesty's high commissioner; and to the most honourable, the three estates of Parliament</title>
+                  <author>Armour, James, fl. 1702-1722.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: J. A.</note>
+                  <note>J. A. = James Armour.--Wing (CD-ROM edition).</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Banks and banking --  Scotland --  Early works to 1800.</term>
+               <term>Money --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:133477:1" rendition="simple:additions"/>
+            <head>A PROPOSAL to ſupply the Defect of <hi>Money,</hi> and Relief to the <hi>Poor.</hi>
+            </head>
+            <opener>
+               <salute>To His Grace, <hi>JAMES</hi> Duke of <hi>Queensberry,</hi> His Ma<g ref="char:EOLhyphen"/>jesty's High Commiſsioner; And to the moſt Honourable, the Three Eſtates of Parliament.</salute>
+            </opener>
+            <opener>
+               <salute>MOST NOBLE PATRIOTS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Sounding of Your Zeal, in ſtanding up for the Honour, Priviledge, and Trade of the Nation, with a Virtuous Diſpoſition to Encourage all Improvements of Induſtry, doth engage Your <hi>Addreſſer,</hi> to lay before this moſt Honourable Houſe, the following Propoſal of a <hi>National Bank;</hi> being Calculate for the Honour and Wealth of the Nation, and to remove all theſe Vilipending Reproaches of Poverty thrown upon Us: So that in a few Years, (with the Bleſſing of GOD) the moſt Re<g ref="char:EOLhyphen"/>puted Nations in <hi>Europe,</hi> will ſeek after Our Friendſhip. And I being touched with the Senſe and Duty that lays upon all good Chriſtians, as well as Subjects, obliges me to tender my Mite, for promoting the Intereſt and Advancement of my Native Country, moves me to give in this Propoſal; and ſhall only crave Leave to tell this Honourable Houſe, That all Political Nations and States, makes it their Work to Advance the ſame; and how much this Kingdom doth want a Supply to Raiſe it, is no leſs obvious. It is therefore hoped, that an Overture for that End, will be no leſs acceptable to this Nation; eſpecially when the Want of it is ſo Great, and the Benefit of it ſo Clear and Safe.</p>
+            <p>
+               <hi>First,</hi> The Parliament agreeing for eſtabliſhing a <hi>National Bank,</hi> for Twenty Seven Years at 4 <hi>per Cent.</hi> Intereſt; by the Payment of which Intereſt, the Bills ſhall all be ex<g ref="char:EOLhyphen"/>hauſted at the limited time, ſufficient Security is laid down for the Performance of the ſame.</p>
+            <p>
+               <hi>Secondly,</hi> For raiſing a Stock in Caſh, for anſwering the Credit of the Bills during the Twenty Seven Years, every Twelve Hundred Pounds <hi>Scots</hi> of thir Bills given out, the Receiver is to bring a Fourth part of the Sum he is to receive of the current <hi>ſpecie</hi> of the Nation; which will be a Honourable and Sufficient Stock of Caſh to anſwer the Credit of the Bills, and is a greater Stock in Caſh than will be found in any Bank in <hi>Europe;</hi> beſides the Projector his ſeveral Native and Political Rules to give the Bills a Currency. It is to be obſerved, that the Caſh that is to be brought in by every Receiver of Bills<g ref="char:punc">▪</g> is immediatly to be paid in Bills; ſo that the Caſh is not Debitor to any, and remains a Treaſure to anſwer the Bills for the Twenty Seven Years; and this Treaſure of Money to be diſpoſed of, as the Wiſdom of the Nation ſhall think fit, when the ſaid Years are com<g ref="char:EOLhyphen"/>pleated.</p>
+            <div type="part">
+               <head>The Method of Diſtributing the National Bills, in a moſt Equal and Just way, to the Three Eſtates of the Nation.</head>
+               <p>There is given to every Shire and Burgh Royal in the Kingdom, according to the old Extent of Six Hundred Pounds Valuation for each Twenty Shilling thereof, Twelve Thou<g ref="char:EOLhyphen"/>ſand Pounds <hi>Scots</hi> of thir Bills, they giving ſufficient Security for the payment of Four <hi>per Cent.</hi> Intereſt for Twenty Seven Years; by the payment of which Intereſt, the Principal Stock is diſcharged. It is always to be obſerved, That this Intereſt muſt be paid yearly in the National Bills. The Advantage of this, is left to the ſerious Conſideration of the Noble Patrons of the Kingdom.</p>
+               <p>It is hoped, there will be no need to Illuſtrate much the following Propoſal relating to Trade, being a Matter no leſs to be conſidered than the former: And it is well known to the Honourable Members of Parliament, that Trade, by all Wiſe and well Governed King<g ref="char:EOLhyphen"/>doms and States, is that which they moſt induſtriouſly take Care, not only to Preſerve, but Nouriſh, being the Life and Strength of all Kingdoms. How much would thir National Bills Advance the Trade of this Kingdom, and Relieve it out of its Decays and ſcarcity of Money, making it plenty to Improve the Product of the Nation? for the want of which, is now Traſported into other Kingdom, to our great Loſs, which may be Improven at Home into ſeveral Fabricks of Commodities ſerviceable to ourſelves, and profitable Abroad; by
+<pb n="2" facs="tcp:133477:2"/>which the Poor would be well imploied: So that, by this we may be capable to carry on Trade with our Neighbours, and to encreaſe our Wealth and Honour in <hi>Europe;</hi> eſpe<g ref="char:EOLhyphen"/>cially conſidering how many Ingenious Spirits there are in the Nation, capable to erect Manufactories and carry on Trade thorow the World, only they want Stocks to put fore<g ref="char:EOLhyphen"/>ward their Genius to the ſame; and they being a part of the Body Politick, and the only Men to lay out their Stocks to the Nation's greateſt Advantage, it is highly reaſonable that ſufficient Proviſion be made for them.</p>
+            </div>
+            <div type="part">
+               <head>The Propoſal for Stocks to Manufactories and Merchant-Companies, and their Securities.</head>
+               <p>Manufactories and Merchant-Companies, though not of viſible Eſtates, yet according to their Reputation and Credit, may have of this Stock, they giving ſufficient Security to pay the yearly Intereſt.</p>
+               <p>It is neceſſar there be a Propoſal laid down, for the Encouragement of all Incorporate Callings<g ref="char:punc">▪</g> and Ingenious Artificers.</p>
+               <p>All Incorporate Callings that will undertake particular Improvements of their Callings, to what other Nations have Improven themſelves to, ought to have what Stock ſhall be thought reaſonable, they giving the like Security</p>
+               <p>This way of Security, though not frequent, may be as good Security as that of Land; the Policy of the Security being only to ſecure the Intereſt for the ſaid Twenty ſeven Years.</p>
+               <p>It is humbly conceived, if the Nation can agree to ſettle this National Bank, that a great Advantage will ariſe as well to the King's Majeſty, as to the Kingdom, conſidering the In<g ref="char:EOLhyphen"/>creaſe of Trade advancing the King's Revenue; ſo that both King and People have an equal Advantage by the ſame. It is not needful here, to lay out the Advantages of this Bank, being ſo plainly laid down to the Kingdom and the Benefit of Trade. It is likewiſe to be obſerved, that all Trades, Huſwifery, and Manual Labours, will be greatly advanced: And it may be boldly aſſerted, if this be embraced by the Nation, will make it a Flouriſh<g ref="char:EOLhyphen"/>ing Kingdom: And there is nothing known reaſonably that can marr this Propoſal, but a Puſilanimous Fear, which the <hi>Projector</hi> takes off, by erecting in <hi>Edinburgh,</hi> the Capital City of the Nation, an Exchange-Office, to pay all the National Bills that ſhall come in, free of any Charge, in the current Money of the Kingdom, which makes the Bills the ſame with Money, and to be of better, or as good uſe to ſerve the Nation, than if they were all Silver Money: As alſo, conſidering the Benefit that almoſt every Man in the Nation have by them, and the End the Bank is erected for, and that it doth not Diminiſh the Silver Money of the Nation, but greatly Increaſe it; eſpecially conſidering what Credit Bills are in the World, being eſteemed more valuable than either Silver or Gold: And if we ſtand on this Point, our Nation may remain in this languiſhing condition while the World endureth, and we muſt remain Underlings, to be Deſpiſed by all our Neighbours: But it is hoped it will take better effect, at leaſt to examine the Veracity thereof; and it is not doubted, but there will be given the Nation that ſatisfaction they can readily wiſh for.</p>
+               <p>There are two Years Intereſt of this National Bank, reſerved for all Contingencies that may be neceſſary for this Erection.</p>
+               <p>This National Bank will greatly ſtrengthen and ſupport the carrying on of Foreign Colo<g ref="char:EOLhyphen"/>nies, as <hi>CALEDONIA,</hi> ond others, filling the Nation and Company's hands with Money, enabling them to give theſe neceſſary and frequent Supplies as may be needful.</p>
+               <p>There are ſeveral Heads in this National Bank, that the <hi>Projector</hi> forbears to make publiek; as the manner of erecting the Bills for duration, and a Method to prevent Counterfits to be impoſed upon us, for which the <hi>Projector</hi> has a peculiar way, which is both ſafe and eaſy, unknown to any; which makes this Propoſal more acceptable to this Nation, than is propoſed to any other, they not having the like Security offered them: All which the <hi>Projector</hi> ſhall be ready, in its proper Time, and to proper Perſons, to give account of.</p>
+               <p>There are <hi>Three</hi> principal Objections natively falls in to be obviat; and craves the Courteous Reader's Patience to anſwer: and ſhall be as brief as I can.</p>
+               <p>
+                  <hi>Firſt,</hi> The Unprecedentialneſs of this Bank. <hi>Secondly,</hi> Its Currency for the Service of the Nation. <hi>Thirdly,</hi> Its Exhauſt and Safety. And, <hi>Lastly,</hi> My Animadverſions
+<pb n="3" facs="tcp:133477:2"/>upon the whole: And, as I have ſaid, my Care is to be as ſhort as I can; for my pur<g ref="char:EOLhyphen"/>poſe is not to write a Volume, but a Sheet.</p>
+               <p>For the <hi>Firſt,</hi> the Unprecedentialneſs of this Bank. I Anſwer, If other Nations and People had opponed this Argument, what had become of the moſt Famous Diſcoveries and Advantageous Effects that are ſo profitable and uſeful to the World, as <hi>Columbus</hi> New Worlds Diſcovery, which was more an Impulſe, than Demonſtratical Reaſon; if that fa<g ref="char:EOLhyphen"/>mous Queen of <hi>Portugal</hi> had not encouraged, might have been dead to us, as well as to the known World upward of Five Thouſand Years, which is now become the Ma<g ref="char:EOLhyphen"/>gazine and Treaſure of <hi>Europe?</hi> And not to paſs by our Famous <hi>Merchiſtoun,</hi> juſtly deſerving to be noted; for his Lograthims become ſo uſeful, that it hath made Coaſters, Sailers through the moſt ſpacious Seas: As alſo many others that have made their Coun<g ref="char:EOLhyphen"/>try Famous, as well as themſelves, for their Diſcoveries of laudable Practices and Sciences, ſo profitable and uſeful to Mankind, which I may ſay is like a new Creation inſpired by the Great GOD in the Hearts and Underſtandings of Men. All theſe, and other profitable Diſcoveries ſo advantageous, that a great part of the World are Maintained by, as well as made Rich, putting Imployments and Negotiations in the hands of Mankind, that they may not Eat the Bread of Idleneſs and Sloth, which brings on Poverty, exam<g ref="char:EOLhyphen"/>plified in our ſelves, compared with our Neighbouring Nations, by their painful Practices and virtuous Improvements of Art and Induſtry, are become Rich; and we, for the ſlight<g ref="char:EOLhyphen"/>ing and deſpiſing of ſuch Methods, remain Poor: So that, through our Idleneſs, the one half of the Nation, by a ſenſible Waſte and Decay, are eating up the other, that we have Death going about our Doors and Streets, portrait in the Viſages of Mankind, ſhould ex<g ref="char:EOLhyphen"/>tort Pity, and quicken the Spirits of all Tender Chriſtians, and put the Nation to Examine all Overtures and Propoſals offered for the Relieving of it, and Raiſing it in its Wealth and Honour. And I may ſafely ſay, that this is not amongſt the leaſt, but the greateſt that ever was offered; and ſhall cloſe the Anſwer of this Objection with theſe few given, it being my care not to weary the Reader with the Reaſonableneſs thereof, though not Pre<g ref="char:EOLhyphen"/>cedential.</p>
+               <p>The <hi>Second</hi> Objection, Its Currency for the Service of the Nation. A Propoſal ſo advantageouſly laid down, cannot fail in its Currency, conſidering the great Stock in Caſh, treaſured up in an Office to anſwer the Credit of the Bills, will give a very honou<g ref="char:EOLhyphen"/>rable Reputation to the National Bank; and there are ſeveral Branches to ſtrengthen the Bank, and to enlarge the Caſh, by receiving all Money into the Office upon a Months cer<g ref="char:EOLhyphen"/>tain, at half Uſe, and to be drawn out after at pleaſure, every Man will come quickly to ſee his Advantage, and bring in all his idle Money, and he'll ſee it ſafer in the Office, than in his own Cuſtody, as well as advantageous to him,</p>
+               <p>On the other hand, if one wants a Sum of Money on preſent occaſion, he can be ſup<g ref="char:EOLhyphen"/>plied at the Office upon a certain Uſe, for a Month or two, giving in his Bill indorſed: So that the Bank is made an Exchange to give to him that wants, and is profitable to him that hath it idle. It is eaſie demonſtrable and made appear, that this Bank is more ho<g ref="char:EOLhyphen"/>nourable and profitable, than any Bank in <hi>Europe:</hi> All the Banks in <hi>Europe,</hi> the Com<g ref="char:EOLhyphen"/>pany is liable for all the Bills <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mitted by them; but here the Intereſt is made liable, and doth effectively do it. And further, the longer the Banks in <hi>Europe</hi> continue, they are the more indebted; and the longer this Bank continues, the leſs indebted, by deſtroying the yearly Intereſt, till it ſelf eats up it ſelf, that the payment of the Twenty Seven Years Intereſt takes in the whole Bills: So that there is none to pay, and the Caſh doth remain a good Legaey to the next Age to erect a new one.</p>
+               <p>The <hi>Third</hi> Objection, Its Exhauſt and Safety. My laſt Paragraph gives a <hi>Videmus</hi> to this, by the payment of the Twenty Seven Years Intereſt exhauſts the whole. I ſhall en<g ref="char:EOLhyphen"/>deavour to make it appear by plain Demonſtration. I have a Thouſand Pounds <hi>Scots</hi> I lock up in my Cabin, I take yearly out of it Fifty Pounds <hi>Scots</hi> for Twenty Years, then my Bag is empty: Even ſo the Four <hi>per Cent.</hi> Intereſt for Twenty Seven Years<g ref="char:punc">▪</g> returns them from whence they came; ſo that no Man can be a loſer by them: Only with this difference of my Thouſand Pounds exhauſt, That the Nation hath this vaſt Stock to occupy in all man<g ref="char:EOLhyphen"/>ner of Payments, Improvements, and Buſineſs, for Twenty Seven Years. And if the Loan of Money in the Eſtimate of the Nation, be at Seventeen Years uſe, and the Principal to pay; how much more advantageous is the Loan for Twenty Seven Years, and no Prin<g ref="char:EOLhyphen"/>cipal to pay? I ſhall leave this to the judicious Obſerver, and proceed to my Animad<g ref="char:EOLhyphen"/>verſions.</p>
+               <pb n="4" facs="tcp:133477:3" rendition="simple:additions"/>
+               <p>It is hoped that the Honour of the Nation is not degenerat from their Anceſtors, that did acquit themſelves nothing inferiour to their Neighbours, that now they ſhould not ſee ſuch a great Advantage as this Offer makes unto them, when their need does ſo much require it, but that they will, like the noble <hi>Bereans</hi> in another caſe, ſearch whether theſe things be ſo, or no; and not let ſuch an Advantageous Opportunity ſlip, when our need of it is ſo great, and do by This as we did by that noble Undertaking of the Earl of <hi>Stirling,</hi> who did expoſe his own Fortune to the raiſing of ours, which if happily had been followed, our Improvements in <hi>America</hi> might have been as Advantageous as our Neighbours, which now all our Endeavours cannot recover. But to paſs by that is not now to be remedy'd, and to this in hand, and to tell you, That it is Greater than ever any was offered: For all theſe were Foreign, and at a diſtance; but this is a Circula<g ref="char:EOLhyphen"/>tion of Treaſure within our ſelves, which runs no Hazards, if duely Managed: And al<g ref="char:EOLhyphen"/>though we may be Envyed by our Neighbours, yet they cannot Rob us of it.</p>
+               <p>We have had Dr. <hi>Chamberland</hi>'s Perſwaſive of it: And truely that Gentleman has me<g ref="char:EOLhyphen"/>rited the Good-will and Favour of all True-hearted <hi>Scots</hi>-Men, for the Tender of his Service therein; tho' it's with many Diſadvantages that this is offered: As <hi>Firſt,</hi> His Hundred Years continuance, may be of fatal Conſequences to the Land Eſtates that en<g ref="char:EOLhyphen"/>gages in this National Bank, and their Succeſſors: And it were better that many Poſſeſ<g ref="char:EOLhyphen"/>ſors of Lands were Interdicted, than to be Tranſactors for ſo many Ages, to fix ſuch a long continued yearly Debt, to entail on their Poſterity. If it be Anſwered, That the Incomes of a Joint-ſtock of Trade will ſufficiently make it up; we have too ſad Experience of our National Joint-ſtock of Trade, our <hi>African</hi> and <hi>Indian</hi> Company's Management, a plain Demonſtration of a Joint-national-ſtock: But this is given to every Man, to make the beſt of it he can, and not to be confined to the Management of others. Beſides, this Bank is agreeable to this preſent Age, that the moſt of the Tranſactors may be Witneſſes to the Exhauſt of it: So that their Succeſſors can noways ſuffer by their Miſ-management.</p>
+               <p>And the <hi>Laſt</hi> is the worſt, To ſettle his Bank upon the publick Faith of the Nation; which will be of little Reputation at Home, and of far leſs Abroad; though it muſt be confeſſed, our Neceſſity doth call for a ſpeedy Supply: But it is always to be adverted, that it be both Safe and Honourable; on the other hand, if we have not, we are like to fall deſpicable, which I pray GOD to prevent.</p>
+               <p>I would humbly lay before this Honourable Parliament, the Conſideration of Foreign Trade with Luxurious and Superfluous Commodities; eſpecially with thoſe Nations that deny Trade with us, and ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rve us with no other Commodities, than to waſte our Bodies and Eſtates, and increaſing our Poverty, by draining the Money out of the Nation: For if our Import be greater than our Export, what ſhall be the End thereof but Miſery?</p>
+               <p>I would have given ſome Preliminary Poſitions, but Dr. <hi>Chamberland</hi> preventing me in his Propoſal of the higheſt Concern to the Kingdom of <hi>Scotland:</hi> I do agree with the Doctor's Title, if the Nation deſires to be Rich and Honourable; and do tell them, It is a Treaſure opened up within our ſelves, to Improve all our Product, and Imploy all our Hands; ſo that in a few Years, by the Export of our Manufactories, we'll bring in the Treaſure and Wealth of our Neighbours. This does not only imploy our idle Hands, and make us Rich; but the greateſt Nations in <hi>Europe</hi> will then court our Favour, and take off that Ignominy of <hi>Deſpicableneſs</hi> we are lying under. If this be not of the Nations Concern, I know not what they will make their Concern. And if there be any, as it can<g ref="char:EOLhyphen"/>not otherwiſe be expected but there may be ſome, as there is againſt the beſt of Underta<g ref="char:EOLhyphen"/>kings, that may have an evil Deſign againſt this Bank, as ſelf-ſeeking People, having no regard to the Common Good of the Nation; the Parliament may find out Ways and Me<g ref="char:EOLhyphen"/>thods to prevent their ill Deſigns, ſo that they cannot hurt it. Beſides, the Diſcovery of this laudable Practice, and the Nation engaging therein, will make us Famous to all Ge<g ref="char:EOLhyphen"/>nerations.</p>
+               <p>
+                  <hi>My Lords and Gentlemen,</hi> I could not be anſwerable to my Country, to my Self, and to GOD, the Inſpirer of every Good and Perfect Gift, to Conceal ſuch a Common Good to this Nation: And ſhall ſhut up all with my hearty Prayer, That GOD may give to this moſt Honourable Parliament, all Wiſdom and Grace to do every Good and Accepta<g ref="char:EOLhyphen"/>ble Service, for the Glory of GOD, the Wealth, Proſperity, and Honour of the Nation.</p>
+               <closer>
+                  <salute>My Lords and Gentlemen,</salute> 
+                  <signed>Your Honours most Obedient, and most Humble Servant, <hi>J. A.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
